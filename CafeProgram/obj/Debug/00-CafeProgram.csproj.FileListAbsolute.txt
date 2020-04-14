@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\CafeProgram\bin\Debug\CafeProgram.exe.config
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\CafeProgram\bin\Debug\CafeProgram.exe
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\CafeProgram\bin\Debug\CafeProgram.pdb
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\CafeProgram\obj\Debug\00-CafeProgram.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\CafeProgram\obj\Debug\CafeProgram.exe
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\CafeProgram\obj\Debug\CafeProgram.pdb

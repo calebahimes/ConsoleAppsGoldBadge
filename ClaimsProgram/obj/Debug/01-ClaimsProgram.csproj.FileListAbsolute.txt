@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\ClaimsProgram\bin\Debug\ClaimsProgram.exe.config
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\ClaimsProgram\bin\Debug\ClaimsProgram.exe
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\ClaimsProgram\bin\Debug\ClaimsProgram.pdb
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\ClaimsProgram\obj\Debug\01-ClaimsProgram.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\ClaimsProgram\obj\Debug\ClaimsProgram.exe
+C:\ElevenFiftyProjects\GoldBadge\dotnet\ConsoleAppChallenges\ConsoleAppChallenges\ClaimsProgram\obj\Debug\ClaimsProgram.pdb
